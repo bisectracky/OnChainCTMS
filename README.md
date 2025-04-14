@@ -10,12 +10,12 @@ Metis L2 and  LazAI’s Alith framework can significantly enhance clinical trial
 - **Data Provenance and Integrity**: Data hashes (not the raw data itself) can be written to LazAI to ensure it hasn't been altered.
 - **Immutable Audit Trails**: Each change or data entry can be timestamped and recorded on-chain via LazAI. This creates a tamper-proof audit trail—perfect for regulatory compliance.
 - **Token-Based Incentives**:
-- ***Problem Identification***
-- ****Patient retention and engagement in long trials is tough.****
-- ***Blockchain Solution***
-- ****Tokens or NFTs could reward patient milestones (e.g., completed visits, reporting side effects).****
-- ***Patient Benefits***
-- ****Creating a gamified experience with optional off-chain redeemable value.****
+--- ***Problem Identification***
+----- ****Patient retention and engagement in long trials is tough.****
+--- ***Blockchain Solution***
+----- ****Tokens or NFTs could reward patient milestones (e.g., completed visits, reporting side effects).****
+--- ***Patient Benefits***
+----- ****Creating a gamified experience with optional off-chain redeemable value.****
 
 ## Tech Stack
 - **Blockchain**: Metis L2, Solidity, foundry
