@@ -10,6 +10,7 @@ Metis L2 and  LazAI’s Alith framework can significantly enhance clinical trial
 - **Data Provenance and Integrity**: Data hashes (not the raw data itself) can be written to LazAI to ensure it hasn't been altered.
 - **Immutable Audit Trails**: Each change or data entry can be timestamped and recorded on-chain via LazAI. This creates a tamper-proof audit trail—perfect for regulatory compliance.
 - **Token-Based Incentives**: 1. Problem Identification => Patient retention and engagement in long trials is tough; 2. Blockchain Solution => Tokens or NFTs could reward patient milestones (e.g., completed visits, reporting side effects); 3. Patient Benefits => Creating a gamified experience with optional off-chain redeemable value.
+- **Transparent Randomization & Blinding**: Bias in randomization and unblinding can skew trial results, compromising the scientific validity of clinical studies. Randomization logic encoded in smart contracts ensures provably fair treatment allocation, which is verifiable by third parties.
 
 ## Tech Stack
 - **Blockchain**: Metis L2, Solidity, foundry
@@ -20,7 +21,7 @@ Metis L2 and  LazAI’s Alith framework can significantly enhance clinical trial
 ## Getting Started  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/MetisCTMS/core.git
+   git clone https://github.com/bisectracky/MetisCTMS.git
    ```
 2. Install dependencies:
   ```bash
