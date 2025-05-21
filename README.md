@@ -20,7 +20,7 @@ Integrating NERO Chain with a Clinical Trial Management System (CTMS) involves c
 ## Getting Started  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/bisectracky/MetisCTMS.git
+   git clone https://github.com/bisectracky/OnChainCTMS.git
    ```
 2. Install dependencies:
   ```bash
